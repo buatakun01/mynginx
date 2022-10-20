@@ -1,0 +1,19 @@
+{
+  "name": "@buatakun01/mynginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buatakun01/mynginx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buatakun01/mynginx/issues"
+  },
+  "homepage": "https://github.com/buatakun01/mynginx#readme"
+}
