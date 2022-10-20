@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/buatakun01/mynginx#readme",
   "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+   "@buatakun01:registry": "https://npm.pkg.github.com"
   }
 }
